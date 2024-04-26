@@ -1,0 +1,101 @@
+trial_number,params,value
+0,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.8748194851214366, 'tfidf_min_df': 592, 'classifier': 'RidgeClassifier', 'ridge_alpha': 0.6685939385399395, 'solver': 'auto'}",0.8587701739783593
+1,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.9986901689968677, 'tfidf_min_df': 25, 'classifier': 'LinearSVC', 'svc_penalty': 'l2', 'svc_loss': 'squared_hinge', 'C_svc': 9.269540279250354, 'svc_max_iter': 5653}",0.8982315179249156
+2,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.9470165380315027, 'tfidf_min_df': 702, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8632387494869083
+3,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8138057888041054, 'tfidf_min_df': 3, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.914878266643362
+4,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8777859852175988, 'tfidf_min_df': 378, 'classifier': 'RidgeClassifier', 'ridge_alpha': 5.778447399702031, 'solver': 'auto'}",0.882780564056884
+5,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.8175357186090859, 'tfidf_min_df': 503, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8712316778560709
+6,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.8801398343981741, 'tfidf_min_df': 152, 'classifier': 'LinearSVC', 'svc_penalty': 'l1', 'C_svc': 6.576051984441627, 'svc_max_iter': 8584}",0.8762980542369625
+7,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8026574993494777, 'tfidf_min_df': 8, 'classifier': 'RidgeClassifier', 'ridge_alpha': 0.8575953030375899, 'solver': 'sag'}",0.9130531154638574
+8,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.8547114129895883, 'tfidf_min_df': 192, 'classifier': 'RidgeClassifier', 'ridge_alpha': 6.982082515581677, 'solver': 'auto'}",0.8933538999187471
+9,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7657924760128757, 'tfidf_min_df': 260, 'classifier': 'RidgeClassifier', 'ridge_alpha': 0.5302279484665496, 'solver': 'sag'}",0.8799799269070057
+10,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.722754226328967, 'tfidf_min_df': 365, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8730568092298597
+11,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7936947416707437, 'tfidf_min_df': 14, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9127068521339915
+12,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7434264279561327, 'tfidf_min_df': 98, 'classifier': 'RidgeClassifier', 'ridge_alpha': 9.793376848126982, 'solver': 'sag'}",0.8955567361962826
+13,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8082995831601578, 'tfidf_min_df': 277, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8842909578489804
+14,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.9227806648913413, 'tfidf_min_df': 814, 'classifier': 'LinearSVC', 'svc_penalty': 'l2', 'svc_loss': 'hinge', 'C_svc': 0.3843541907283745, 'svc_max_iter': 1360}",0.8585500483011895
+15,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.7739046867161554, 'tfidf_min_df': 95, 'classifier': 'RidgeClassifier', 'ridge_alpha': 2.914885138027911, 'solver': 'lsqr'}",0.889514680739288
+16,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8288990254274209, 'tfidf_min_df': 2, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9145635488673853
+17,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.8368734215820985, 'tfidf_min_df': 225, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8885707106142297
+18,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.9310972831024247, 'tfidf_min_df': 317, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8757943354662439
+19,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7145580996326653, 'tfidf_min_df': 108, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8968470340197829
+20,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8400973483540897, 'tfidf_min_df': 470, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.873088334978033
+21,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7833351301254757, 'tfidf_min_df': 5, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.9148467854580493
+22,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7589057726360288, 'tfidf_min_df': 59, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.9028889112253351
+23,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7828045947446477, 'tfidf_min_df': 157, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8930393851513576
+24,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8245612421002744, 'tfidf_min_df': 133, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8946127710226532
+25,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.7439961151163298, 'tfidf_min_df': 57, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9049028158281338
+26,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.8583044055336195, 'tfidf_min_df': 3, 'classifier': 'LinearSVC', 'svc_penalty': 'l1', 'C_svc': 0.568725928352773, 'svc_max_iter': 1033}",0.8935741691873567
+27,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.9012941976679134, 'tfidf_min_df': 223, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8889798422375705
+28,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8239793421181859, 'tfidf_min_df': 75, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9007176056474018
+29,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.7904591947239025, 'tfidf_min_df': 603, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8609729557901762
+30,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7019492305708718, 'tfidf_min_df': 187, 'classifier': 'LinearSVC', 'svc_penalty': 'l2', 'svc_loss': 'hinge', 'C_svc': 4.292540210476256, 'svc_max_iter': 9960}",0.8824659750180602
+31,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8050568127174484, 'tfidf_min_df': 2, 'classifier': 'RidgeClassifier', 'ridge_alpha': 3.2924950178188066, 'solver': 'lbfgs'}",0.8166339542260198
+32,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7983646274332064, 'tfidf_min_df': 43, 'classifier': 'RidgeClassifier', 'ridge_alpha': 2.9804198635403925, 'solver': 'sparse_cg'}",0.9076719816955574
+33,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8621557246917539, 'tfidf_min_df': 127, 'classifier': 'RidgeClassifier', 'ridge_alpha': 0.166576557470675, 'solver': 'sag'}",0.8727422944624704
+34,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8371755871536157, 'tfidf_min_df': 51, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9042105565455664
+35,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.7547585414817565, 'tfidf_min_df': 5, 'classifier': 'RidgeClassifier', 'ridge_alpha': 8.145855969813791, 'solver': 'lsqr'}",0.8966894052789165
+36,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.9703333998771564, 'tfidf_min_df': 917, 'classifier': 'LinearSVC', 'svc_penalty': 'l1', 'C_svc': 9.818789020667719, 'svc_max_iter': 4638}",0.853200336301055
+37,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8861748543582446, 'tfidf_min_df': 548, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8696896741415088
+38,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8154451249030791, 'tfidf_min_df': 168, 'classifier': 'RidgeClassifier', 'ridge_alpha': 4.57087802315796, 'solver': 'lbfgs'}",0.8075395953395169
+39,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7736753822441051, 'tfidf_min_df': 82, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8997421196770281
+40,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.7372605707835116, 'tfidf_min_df': 33, 'classifier': 'RidgeClassifier', 'ridge_alpha': 1.8287837015705772, 'solver': 'sparse_cg'}",0.9098432427106301
+41,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7907659483943726, 'tfidf_min_df': 36, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9058153938936007
+42,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8016173460245342, 'tfidf_min_df': 102, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8965322716809458
+43,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7813237733179464, 'tfidf_min_df': 9, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9142802924710056
+44,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7812740037858558, 'tfidf_min_df': 430, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8746617258007575
+45,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8482432867105663, 'tfidf_min_df': 140, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.894644237353679
+46,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8257262267538331, 'tfidf_min_df': 73, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9007490620755696
+47,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.7652158246234172, 'tfidf_min_df': 32, 'classifier': 'LinearSVC', 'svc_penalty': 'l2', 'svc_loss': 'squared_hinge', 'C_svc': 3.832617200016178, 'svc_max_iter': 4833}",0.8711687649997352
+48,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8133468193539133, 'tfidf_min_df': 2, 'classifier': 'RidgeClassifier', 'ridge_alpha': 4.757870030762143, 'solver': 'sag'}",0.904053011978992
+49,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8701847524212276, 'tfidf_min_df': 680, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8623575634810328
+50,"{'tfidf_max_ngram': 3, 'tfidf_max_df': 0.7777301381995357, 'tfidf_min_df': 342, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8783750202389659
+51,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7955400193065998, 'tfidf_min_df': 109, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8974134428325342
+52,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8281475696088866, 'tfidf_min_df': 76, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9004658749991954
+53,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8075870077264022, 'tfidf_min_df': 31, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9076091034992244
+54,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7497461858618291, 'tfidf_min_df': 19, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9107558554360995
+55,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8455563754707388, 'tfidf_min_df': 217, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8880044008300574
+56,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7662675469635483, 'tfidf_min_df': 274, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8849832616944088
+57,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7365169774899852, 'tfidf_min_df': 59, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.902637150868555
+58,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7843707542771576, 'tfidf_min_df': 116, 'classifier': 'RidgeClassifier', 'ridge_alpha': 2.0754548331161016, 'solver': 'sag'}",0.8987035475503052
+59,"{'tfidf_max_ngram': 1, 'tfidf_max_df': 0.8131909102488326, 'tfidf_min_df': 163, 'classifier': 'LinearSVC', 'svc_penalty': 'l1', 'C_svc': 6.692829714427144, 'svc_max_iter': 7097}",0.8761406532618281
+60,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8328093376063213, 'tfidf_min_df': 99, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.897067243871245
+61,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7559973533116696, 'tfidf_min_df': 18, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9114796355154116
+62,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.764300909619083, 'tfidf_min_df': 26, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9083957914834432
+63,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7265172686907473, 'tfidf_min_df': 63, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.902511255835878
+64,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7937087282328812, 'tfidf_min_df': 10, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9137768064174481
+65,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.78536681985739, 'tfidf_min_df': 4, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9150041369188943
+66,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7923207751612139, 'tfidf_min_df': 47, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.904462272339486
+67,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7729301497274733, 'tfidf_min_df': 83, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8995532573222969
+68,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8031968539447868, 'tfidf_min_df': 52, 'classifier': 'RidgeClassifier', 'ridge_alpha': 6.829845824898455, 'solver': 'lbfgs'}",0.8093647712761664
+69,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8201918786198295, 'tfidf_min_df': 11, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9139026766929801
+70,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8198437893209047, 'tfidf_min_df': 5, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.914469154825737
+71,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8200777602321005, 'tfidf_min_df': 2, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9145635488673853
+72,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8238524958675437, 'tfidf_min_df': 37, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9062559373822487
+73,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8183519006465625, 'tfidf_min_df': 2, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9145635488673853
+74,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8378768602352107, 'tfidf_min_df': 80, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.900528807661247
+75,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8585291692495107, 'tfidf_min_df': 134, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8953994540554431
+76,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8131749293247501, 'tfidf_min_df': 2, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9145635488673853
+77,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.843449797345064, 'tfidf_min_df': 56, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.9032035745355931
+78,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8138576589726664, 'tfidf_min_df': 95, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8978225199901566
+79,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8064326217928924, 'tfidf_min_df': 36, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9059727503058743
+80,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8288646859124645, 'tfidf_min_df': 185, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8908995360015923
+81,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7853845211230637, 'tfidf_min_df': 8, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9146894488514914
+82,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7869463557691568, 'tfidf_min_df': 4, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9150041369188943
+83,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7869941140358238, 'tfidf_min_df': 32, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9074831985636896
+84,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7965729324839947, 'tfidf_min_df': 66, 'classifier': 'LinearSVC', 'svc_penalty': 'l1', 'C_svc': 2.6696376866790574, 'svc_max_iter': 3438}",0.8824975007662337
+85,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.9910508956948566, 'tfidf_min_df': 846, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.855151323096089
+86,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8528569925309579, 'tfidf_min_df': 47, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.9042105763512822
+87,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7721834762512882, 'tfidf_min_df': 2, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9148782121776435
+88,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7676219777252511, 'tfidf_min_df': 24, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9094656813983232
+89,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7771651195389917, 'tfidf_min_df': 87, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.899647695926806
+90,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.787916978745267, 'tfidf_min_df': 116, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'isotonic'}",0.8962490647988558
+91,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8044235081697487, 'tfidf_min_df': 18, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.911542587983179
+92,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8324033439960108, 'tfidf_min_df': 1, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9130215946671129
+93,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8103685549410948, 'tfidf_min_df': 49, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9039903021312435
+94,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7989137120501287, 'tfidf_min_df': 1, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9129271758683197
+95,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7705770991674139, 'tfidf_min_df': 67, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9017561084541192
+96,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7832696181376467, 'tfidf_min_df': 412, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.8748190772616024
+97,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8163658058096706, 'tfidf_min_df': 23, 'classifier': 'LinearSVC', 'svc_penalty': 'l2', 'svc_loss': 'hinge', 'C_svc': 7.482511552773216, 'svc_max_iter': 2699}",0.8911198250759178
+98,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.8674526536699, 'tfidf_min_df': 49, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9039903021312435
+99,"{'tfidf_max_ngram': 2, 'tfidf_max_df': 0.7458932126669624, 'tfidf_min_df': 22, 'classifier': 'CalibratedClassifierCV', 'calibration_method': 'sigmoid'}",0.9100006436857644
